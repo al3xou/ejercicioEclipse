@@ -8,9 +8,7 @@ public class Hola {
 		System.out.println("Que tal?");
 		System.out.println("Me has escuchado?");
 		System.out.println("Muy bien");
-		
-		
-		
+
 
 	}
 
